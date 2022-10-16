@@ -1,0 +1,5 @@
+- 👋 Welcome, my name is Shreyas Goswami. 
+- 👀 I'm currently a sophomore Computer Science & Math student at NYU.
+- 🌱 I've worked in Python, Java, C, x86 Assembly, MIPS Assembly, & LaTeX.
+- 💞️ I’m looking to collaborate on ...
+- 📫 Reach me at sg6934@nyu.edu
