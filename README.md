@@ -1,5 +1,5 @@
 - 👋 Welcome, my name is Shreyas Goswami. 
 - 👀 I'm currently a sophomore Computer Science & Math student at NYU.
 - 🌱 I've worked in Python, Java, C, x86 Assembly, MIPS Assembly, & LaTeX.
-- 💞️ I've done research on Set Theory, Artificial Intelligence, & the Collatz Conjecture.
+- 🌱 I've done research on Set Theory, Artificial Intelligence, & the Collatz Conjecture.
 - 📫 Reach me at sg6934@nyu.edu
